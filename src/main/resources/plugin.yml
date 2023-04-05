@@ -1,0 +1,5 @@
+name: Bebr
+version: '${project.version}'
+main: me.gusandr.bebr.bebr.Bebr
+api-version: 1.19
+authors: [ Gusandr ]
